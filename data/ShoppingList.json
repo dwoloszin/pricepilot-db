@@ -46,18 +46,45 @@
   {
     "name": "rtestsss",
     "budget": null,
-    "items": [],
+    "items": [
+      {
+        "product_id": "hp3ltxf9k",
+        "product_name": "Test",
+        "desired_quantity": 2,
+        "checked": false
+      }
+    ],
     "user_id": "110212282059431203087",
     "is_active": true,
     "id": "graczemgs",
     "created_date": "2026-02-06T14:53:43.738Z",
     "created_by": "110212282059431203087",
     "created_by_name": "Gael Woloszin",
-    "updated_date": "2026-02-06T14:53:43.738Z",
+    "updated_date": "2026-02-06T15:00:24.042Z",
     "updated_by": "110212282059431203087",
     "updated_by_name": "Gael Woloszin",
     "likes": [],
     "dislikes": [],
-    "edit_history": []
+    "edit_history": [
+      {
+        "timestamp": "2026-02-06T15:00:24.042Z",
+        "user_id": "110212282059431203087",
+        "user_name": "Gael Woloszin",
+        "changes": [
+          {
+            "field": "items",
+            "old": [],
+            "new": [
+              {
+                "product_id": "hp3ltxf9k",
+                "product_name": "Test",
+                "desired_quantity": 2,
+                "checked": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
