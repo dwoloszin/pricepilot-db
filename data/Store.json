@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "name": "ATACADAO",
+    "address": "Avenida Marechal Tito, 2501 - São Miguel Paulista, São Paulo - SP, 08022-0100",
+    "type": "supermarket",
+    "latitude": -23.5166352,
+    "longitude": -46.4281981,
+    "id": "565v5p4r6",
+    "created_date": "2026-02-06T14:23:08.365Z",
+    "created_by": "110239182533731917709",
+    "created_by_name": "Dario Woloszin",
+    "updated_date": "2026-02-06T14:23:08.365Z",
+    "updated_by": "110239182533731917709",
+    "updated_by_name": "Dario Woloszin",
+    "likes": [],
+    "dislikes": [],
+    "edit_history": []
+  }
+]
