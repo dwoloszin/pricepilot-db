@@ -2,18 +2,45 @@
   {
     "name": "Monthly",
     "budget": null,
-    "items": [],
+    "items": [
+      {
+        "product_id": "hp3ltxf9k",
+        "product_name": "Test",
+        "desired_quantity": 1,
+        "checked": false
+      }
+    ],
     "user_id": "110239182533731917709",
     "is_active": true,
     "id": "vc3wk0cwi",
     "created_date": "2026-02-06T14:45:09.318Z",
     "created_by": "110239182533731917709",
     "created_by_name": "Dario Woloszin",
-    "updated_date": "2026-02-06T14:45:09.318Z",
+    "updated_date": "2026-02-06T14:45:48.445Z",
     "updated_by": "110239182533731917709",
     "updated_by_name": "Dario Woloszin",
     "likes": [],
     "dislikes": [],
-    "edit_history": []
+    "edit_history": [
+      {
+        "timestamp": "2026-02-06T14:45:48.445Z",
+        "user_id": "110239182533731917709",
+        "user_name": "Dario Woloszin",
+        "changes": [
+          {
+            "field": "items",
+            "old": [],
+            "new": [
+              {
+                "product_id": "hp3ltxf9k",
+                "product_name": "Test",
+                "desired_quantity": 1,
+                "checked": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
