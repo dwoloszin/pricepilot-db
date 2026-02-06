@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "name": "Monthly",
+    "budget": null,
+    "items": [],
+    "user_id": "110239182533731917709",
+    "is_active": true,
+    "id": "vc3wk0cwi",
+    "created_date": "2026-02-06T14:45:09.318Z",
+    "created_by": "110239182533731917709",
+    "created_by_name": "Dario Woloszin",
+    "updated_date": "2026-02-06T14:45:09.318Z",
+    "updated_by": "110239182533731917709",
+    "updated_by_name": "Dario Woloszin",
+    "likes": [],
+    "dislikes": [],
+    "edit_history": []
+  }
+]
