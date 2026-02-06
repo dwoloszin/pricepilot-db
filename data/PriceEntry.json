@@ -42,5 +42,27 @@
     "likes": [],
     "dislikes": [],
     "edit_history": []
+  },
+  {
+    "price": 5,
+    "quantity": 1,
+    "store_name": "ATACADAO",
+    "store_address": "Avenida Marechal Tito, 2501 - SÃ£o Miguel Paulista, SÃ£o Paulo - SP, 08022-0100",
+    "store_type": "supermarket",
+    "latitude": -23.516574,
+    "longitude": -46.42823,
+    "notes": "",
+    "date_recorded": "2026-02-06",
+    "product_id": "hp3ltxf9k",
+    "id": "bk5zqstl1",
+    "created_date": "2026-02-06T14:46:53.284Z",
+    "created_by": "110239182533731917709",
+    "created_by_name": "Dario Woloszin",
+    "updated_date": "2026-02-06T14:46:53.284Z",
+    "updated_by": "110239182533731917709",
+    "updated_by_name": "Dario Woloszin",
+    "likes": [],
+    "dislikes": [],
+    "edit_history": []
   }
 ]
